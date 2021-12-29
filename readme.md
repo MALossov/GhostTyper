@@ -138,4 +138,4 @@
 - 修复了在文章首行按Backspace键会导致意外情况发生的BUG
 </p>
 
-Editor: [李书扬2021010910011](https://192.168.0.1)
+Editor:MALossov
