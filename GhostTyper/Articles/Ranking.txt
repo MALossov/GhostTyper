@@ -1,0 +1,11 @@
+num	username	complete	passage	accuracy	time
+1	MALO	98	MyFrien	100	11
+2	Sun	98	SunShin	99	51
+3	MALO	97	SunShin	98	53
+4	MALO	97	LIfeTru	96	55
+5	Forta	95	Forever	94	73
+6	MALO	96	SunShin	93	53
+7	Short	82	ShortLi	92	92
+8	Short	96	ShortLi	92	114
+9	Lenina	92	ta	90	38
+10	Karl	91	Talks	88	42

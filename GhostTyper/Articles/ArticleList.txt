@@ -1,0 +1,5 @@
+Name	Word	Date
+ShortLife	436	2021年12月27日
+Darkness	462	2021年12月27日
+LIfeTruth	215	2021年12月27日
+SunShine	241	2021年12月27日
