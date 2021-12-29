@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: MALossov
  * @Date: 2021-12-28 13:05:29
- * @LastEditTime: 2021-12-29 21:44:01
+ * @LastEditTime: 2021-12-30 00:51:28
  * @LastEditors: MALossov
  * @Reference: 
 -->
@@ -136,6 +136,7 @@
 ## 贡献者
 1. **MALossov**:因为新生项目被逼出来的编程苦手一枚
 2. **ASimpleHeart**:被MALossov拉上贼船的C++苦手一枚
+   
 ## 鸣谢
 - *CSDN* 上的一件小作品 能够被我们修改用作打字训练软件的主体[打字软件小学期作品-C/C++代码类资源-CSDN文库](https://download.csdn.net/download/lurenchengwangji/10680103)
 - BiliBili上的项目视频：[C++学生成绩管理系统，搭配Easyx拥有清晰简约，低调奢华的界面，如此详细的教学，学不会算我输~_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uf4y1L75v?share_source=copy_web) 作为我们界面的主入口模板
@@ -146,10 +147,8 @@
 - 对于部分文件的命名规范进行了修改
 - 对于文章录入换行符造成一些文章在打字训练时对齐比较困难的情况进行优化，为方便打字训练进行，录入新文章时，所有的**换行符**都会直接被修改为**空格**
 - 修复了在文章首行按Backspace键会导致意外情况发生的BUG
-<<<<<<< HEAD
 </p>
 =======
 </p>
 
 Editor:MALossov
->>>>>>> f6854e47312ec426b348f86a16e5df502832c4f3
